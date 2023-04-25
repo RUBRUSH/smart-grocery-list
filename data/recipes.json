@@ -1,0 +1,188 @@
+[
+    {
+        "id": "1",
+        "title": "Vegetable Stir Fry",
+        "ingredients": [
+            { "name": "bell peppers", "quantity": "2" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "broccoli", "quantity": "1 cup" },
+            { "name": "soy sauce", "quantity": "2 tbsp" },
+            { "name": "oil", "quantity": "1 tbsp" }
+        ],
+        "instructions": "Chop and cook vegetables in a wok with oil over high heat. Add soy sauce and stir fry for 5 minutes.",
+        "tags": ["vegan", "gluten-free"]
+    },
+    {
+        "id": "2",
+        "title": "Pasta Carbonara",
+        "ingredients": [
+            { "name": "spaghetti", "quantity": "8 oz" },
+            { "name": "bacon", "quantity": "4 slices" },
+            { "name": "eggs", "quantity": "2" },
+            { "name": "parmesan cheese", "quantity": "1/2 cup" },
+            { "name": "garlic", "quantity": "2 cloves" }
+        ],
+        "instructions": "Cook pasta. Fry bacon until crispy. Mince garlic and add to the pan. Mix eggs and cheese. Toss pasta with bacon and egg mixture.",
+        "tags": ["dairy", "meat"]
+    },
+    {
+        "id": "3",
+        "title": "Chicken Fajitas",
+        "ingredients": [
+            { "name": "chicken breasts", "quantity": "2" },
+            { "name": "bell peppers", "quantity": "2" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "fajita seasoning", "quantity": "1 packet" },
+            { "name": "oil", "quantity": "1 tbsp" },
+            { "name": "tortillas", "quantity": "4" }
+        ],
+        "instructions": "Slice chicken and vegetables. Cook chicken and vegetables with oil and seasoning over medium heat. Serve in warm tortillas with desired toppings.",
+        "tags": ["meat", "poultry"]
+    },
+    {
+        "id": "4",
+        "title": "Mushroom Risotto",
+        "ingredients": [
+            { "name": "arborio rice", "quantity": "1 cup" },
+            { "name": "mushrooms", "quantity": "1 cup" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "white wine", "quantity": "1/2 cup" },
+            { "name": "vegetable broth", "quantity": "4 cups" },
+            { "name": "butter", "quantity": "2 tbsp" },
+            { "name": "parmesan cheese", "quantity": "1/2 cup" }
+        ],
+        "instructions": "Melt butter in a pan, cook onion and mushrooms. Add rice and toast for 2-3 minutes. Add wine and cook until absorbed. Gradually add broth, stirring constantly, until rice is cooked. Stir in parmesan cheese.",
+        "tags": ["dairy", "vegetarian"]
+    },
+    {
+        "id": "5",
+        "title": "Tofu Curry",
+        "ingredients": [
+            { "name": "tofu", "quantity": "14 oz" },
+            { "name": "coconut milk", "quantity": "1 can" },
+            { "name": "curry paste", "quantity": "2 tbsp" },
+            { "name": "vegetables", "quantity": "2 cups" },
+            { "name": "oil", "quantity": "1 tbsp" },
+            { "name": "rice", "quantity": "1 cup" }
+        ],
+        "instructions": "Press and cube tofu. Cook rice. In a pan, cook vegetables and tofu with oil. Add curry paste and coconut milk. Simmer for 15 minutes. Serve over rice.",
+        "tags": ["vegan", "gluten-free"]
+    },
+    {
+        "id": "6",
+        "title": "Cauliflower Tacos",
+        "ingredients": [
+            { "name": "cauliflower", "quantity": "1 head" },
+            { "name": "taco seasoning", "quantity": "1 packet" },
+            { "name": "oil", "quantity": "1 tbsp" },
+            { "name": "tortillas", "quantity": "6" },
+            { "name": "salsa", "quantity": "1 cup" },
+            { "name": "avocado", "quantity": "1" }
+        ],
+        "instructions": "Chop cauliflower into small florets. Toss with oil and taco seasoning. Roast at 400°F (200°C) for 25-30 minutes. Assemble tacos with cauliflower, salsa, and avocado.",
+        "tags": ["vegan", "gluten-free"]
+    },
+    {
+        "id": "7",
+        "title": "Salmon Teriyaki",
+        "ingredients": [
+            { "name": "salmon fillets", "quantity": "2" },
+            { "name": "teriyaki sauce", "quantity": "1/2 cup" },
+            { "name": "green onions", "quantity": "2" },
+            { "name": "sesame seeds", "quantity": "1 tbsp" },
+            { "name": "rice", "quantity": "1 cup" }
+        ],
+        "instructions": "Marinate salmon in teriyaki sauce for 30 minutes. Cook rice. Bake salmon at 400°F (200°C) for 12-15 minutes. Garnish with green onions and sesame seeds. Serve with rice.",
+        "tags": ["fish", "gluten-free"]
+    },
+    {
+        "id": "8",
+        "title": "Spinach and Feta Quiche",
+        "ingredients": [
+            { "name": "pie crust", "quantity": "1" },
+            { "name": "spinach", "quantity": "4 cups" },
+            { "name": "feta cheese", "quantity": "1 cup" },
+            { "name": "eggs", "quantity": "4" },
+            { "name": "milk", "quantity": "1 cup" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "butter", "quantity": "1 tbsp" }
+        ],
+        "instructions": "Preheat oven to 350°F (180°C). Cook onion in butter until translucent. Add spinach and cook until wilted. In a bowl, whisk eggs and milk. Layer onion, spinach, and feta cheese in pie crust. Pour egg mixture over top. Bake for 45-50 minutes.",
+        "tags": ["dairy", "vegetarian"]
+    },
+    {
+        "id": "9",
+        "title": "Greek Salad",
+        "ingredients": [
+            { "name": "cucumbers", "quantity": "3" },
+            { "name": "tomatoes", "quantity": "3" },
+            { "name": "kalamata olives", "quantity": "1/2 cup" },
+            { "name": "red onion", "quantity": "1" },
+            { "name": "feta cheese", "quantity": "1 cup" },
+            { "name": "olive oil", "quantity": "1/4 cup" },
+            { "name": "red wine vinegar", "quantity": "3 tbsp" }
+        ],
+        "instructions": "Chop cucumbers, tomatoes, and red onion. Toss with kalamata olives, feta cheese, olive oil, and red wine vinegar. Serve chilled.",
+        "tags": ["vegetarian", "gluten-free"]
+    },
+    {
+        "id": "10",
+        "title": "Lentil Soup",
+        "ingredients": [
+            { "name": "lentils", "quantity": "1 cup" },
+            { "name": "vegetable broth", "quantity": "4 cups" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "carrots", "quantity": "2" },
+            { "name": "celery", "quantity": "2 stalks" },
+            { "name": "garlic", "quantity": "2 cloves" },
+            { "name": "tomato paste", "quantity": "2 tbsp" },
+            { "name": "oil", "quantity": "1 tbsp" }
+        ],
+        "instructions": "Cook onion, carrots, celery, and garlic in oil until softened. Add lentils, vegetable broth, and tomato paste. Simmer for 30-40 minutes, until lentils are tender.",
+        "tags": ["vegan", "gluten-free"]
+    },
+    {
+        "id": "11",
+        "title": "Shrimp and Grits",
+        "ingredients": [
+            { "name": "shrimp", "quantity": "1 lb" },
+            { "name": "grits", "quantity": "1 cup" },
+            { "name": "chicken broth", "quantity": "4 cups" },
+            { "name": "butter", "quantity": "2 tbsp" },
+            { "name": "garlic", "quantity": "2 cloves" },
+            { "name": "scallions", "quantity": "4" },
+            { "name": "cheddar cheese", "quantity": "1 cup" }
+        ],
+        "instructions": "Cook grits in chicken broth until thickened. Stir in butter and cheese. In a separate pan, cook garlic and shrimp until shrimp are pink. Stir in scallions and cook for 1-2 minutes. Serve shrimp over grits.",
+        "tags": ["dairy", "seafood"]
+    },
+    {
+        "id": "12",
+        "title": "Stuffed Bell Peppers",
+        "ingredients": [
+            { "name": "bell peppers", "quantity": "4" },
+            { "name": "rice", "quantity": "1 cup" },
+            { "name": "ground beef", "quantity": "1 lb" },
+            { "name": "onion", "quantity": "1" },
+            { "name": "tomato sauce", "quantity": "1 cup" },
+            { "name": "mozzarella cheese", "quantity": "1 cup" }
+        ],
+        "instructions": "Cook rice. Brown ground beef with onion. Stir in tomato sauce, rice, and 1/2 cup cheese. Cut off tops of bell peppers, remove seeds, and fill with beef mixture. Top with remaining cheese. Bake at 350°F (180°C) for 30 minutes.",
+        "tags": ["dairy", "meat"]
+    },
+        {
+        "id": "13",
+        "title": "Potato Leek Soup",
+        "ingredients": [
+            { "name": "leeks", "quantity": "3" },
+            { "name": "potatoes", "quantity": "3" },
+            { "name": "chicken broth", "quantity": "4 cups" },
+            { "name": "butter", "quantity": "2 tbsp" },
+            { "name": "heavy cream", "quantity": "1/2 cup" },
+            { "name": "salt", "quantity": "to taste" },
+            { "name": "pepper", "quantity": "to taste" }
+        ],
+        "instructions": "Trim, wash, and slice leeks. Peel and cube potatoes. Cook leeks in butter until softened. Add potatoes and chicken broth. Simmer until potatoes are tender. Use an immersion blender to puree soup. Stir in heavy cream, salt, and pepper.",
+        "tags": ["dairy", "gluten-free"]
+    }
+]
