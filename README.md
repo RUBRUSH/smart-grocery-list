@@ -14,7 +14,7 @@ Smart Grocery List is a Python application that automatically generates a grocer
 1. Clone the project repository:
 
    ```
-   git clone https://github.com/yourusername/smart_grocery_list.git
+   git clone https://github.com/RUBRUSH/smart-grocery-list.git
    ```
 
 2. Create and activate a virtual environment:
